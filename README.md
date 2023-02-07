@@ -1,16 +1,22 @@
-### Hi there 👋
+![A title logo with big letters saying frontend on it](frontend-typo-logo.png)
 
-<!--
-**kalaschnik/kalaschnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💫 About Me
 
-Here are some ideas to get you started:
+Hi, I’m Steven, a software engineer focusing mainly on the frontend stack of web technologies. Currently, I’m working at the Max Planck Institute for Evolutionary Anthropology in the department of [Comparative Cultural Psychology](https://www.eva.mpg.de/comparative-cultural-psychology/index/). I am helping PhD students and PostDocs with their projects. You can check out some of the projects here: https://github.com/ccp-eva
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+I love JavaScript and, more recently, TypeScript, React-based frameworks (e.g., Next.js), discussions about CSS in JS (Tailwind is the future), Tabs vs Spaces ([Tabs will win](https://github.com/prettier/prettier/issues/7475)), and Semicolons (indifferent ¯\(ツ)/¯). I love designing and a great UX, browser animations (SVG ❤️), and Typography ❦
+
+### 🏗️ Current Projects
+
+I created a novel approach how to design browser-based experiments using a single SVG file (this allows experimenters to draft their studies in a vector app (e.g., Illustrator, Inkscape):
+- Demo/Code: https://github.com/ccp-eva/gafo-demo
+- Preprint: https://psyarxiv.com/vghw8
+
+For various projects, I work with eye-tracking raw data. Therefore I created an R package to automize common eyetracking
+- Code: https://github.com/ccp-eva/eyewit
+- Paper: TBA
+
+I love the Arduino platform. For a project, we needed a custom-made dispenser that releases plastic beads upong correct responses.
+- Code and Demo: https://github.com/ccp-eva/bead-dispenser
+- BTW: WebUSB is a thing: https://github.com/kalaschnik/webusb-stepper-motor
